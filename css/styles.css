@@ -1,0 +1,11 @@
+img {
+  width: 500px;
+  height: auto;
+}
+#portlandresult {
+  display: none;
+}
+
+#seattleresult {
+  display: none;
+}
